@@ -1,5 +1,5 @@
 # app-dev
-| typw | Title |
+| type | Title |
 | ----------- | ----------- |
 | Movie | Avatar |
 | Series | Stranger Things |
